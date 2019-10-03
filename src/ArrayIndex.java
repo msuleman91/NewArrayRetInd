@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class ArrayIndex {
 		
 	public int i;
-	
+	public int master;
+	public int feature;
 	public int indexReturn(String input) {
 
 		String in = input;
