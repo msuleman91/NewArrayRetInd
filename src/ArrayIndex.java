@@ -3,7 +3,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ArrayIndex {
-	
+		
+	public int i;
 	
 	public int indexReturn(String input) {
 
